@@ -34,7 +34,7 @@ a{
 
 /* White Section */
 .white-section{
-    background-color:#fff;
+    background-color:rgb(255, 255, 255);
 }
 
 
@@ -72,6 +72,7 @@ a{
 .nav-link{
     font-size: 1.2rem;
 }
+
 /* Navigation Bar */
 
 .container-fluid{
@@ -98,10 +99,11 @@ a{
 
 .feature-title{
     font-size: 1.5rem;
+    color:black;
 }
 
 #features p{
-    color: #8f8f8f;
+    color: #2f2a2a;
 }
 
 .col-lg-4{
