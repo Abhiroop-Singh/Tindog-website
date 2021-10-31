@@ -1,4 +1,15 @@
-TinDog Starting Files  
-Hi..  
-This is just a project to get hands on html,css and bootstrap.  
-Check out my website:https://abhiroop-singh.github.io/Tindog-website/
+#Description about Tindog Website
+Tindog is a fun web app that provides dog lovers with the fastest easiest way to meet other pet parents and their dog counterparts. this site provides information like the description of the website, from where we can download the application, a section that displays the feedback from the clients and different plans and subscriptions.
+
+#Tools Used
+I have done this front-end web by using HTML CSS and Bootstrap-5 with components like Button, Carousel, Navbar, Card etc.
+
+#Website: https://abhiroop-singh.github.io/Tindog-website/
+Front End Development utilizing HTML5, CSS3, and BS4
+
+Tinder Website Replica for dogs
+
+
+
+
+
